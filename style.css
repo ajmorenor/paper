@@ -1,0 +1,14 @@
+/*
+Theme Name: Visor Noticias
+Theme URI: https://tusitio.com
+Author: Equipo Visor
+Description: Tema oficial para Visor Noticias. Compatible con WP 6.9+. Optimizado para Core Web Vitals.
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: visor-noticias
+*/
+
+body {
+    background-color: #ffffff;
+}
